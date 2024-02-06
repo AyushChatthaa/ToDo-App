@@ -4,8 +4,8 @@ This project is a simple yet powerful to-do application built with React and the
 
 # Features
 
-Add new tasks
-Update existing tasks
-Delete tasks
-Mark tasks as completed
-Data persistence with Local Storage
+- Add new tasks
+- Update existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Data persistence with Local Storage
